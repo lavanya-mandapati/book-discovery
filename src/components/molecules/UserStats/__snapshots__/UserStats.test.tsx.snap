@@ -1,0 +1,149 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Topics renders correctly should match shapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-root-1 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiCardContent-root"
+    >
+      <div
+        class="MuiCardActions-root MuiCardActions-spacing"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-image-6"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M16.59 7.58L10 14.17l-3.59-3.58L5 12l5 5 8-8zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+          />
+        </svg>
+        <p
+          class="MuiTypography-root makeStyles-font-5 MuiTypography-body1"
+        >
+          BOOKS READ
+        </p>
+      </div>
+      <h1
+        class="makeStyles-display-4"
+      >
+        Ten
+      </h1>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Topics renders correctly should match shapshot 2`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-root-7 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiCardContent-root"
+    >
+      <div
+        class="MuiCardActions-root MuiCardActions-spacing"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-image-12"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 11.55C9.64 9.35 6.48 8 3 8v11c3.48 0 6.64 1.35 9 3.55 2.36-2.19 5.52-3.55 9-3.55V8c-3.48 0-6.64 1.35-9 3.55zM12 8c1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3 1.34 3 3 3z"
+          />
+        </svg>
+        <p
+          class="MuiTypography-root makeStyles-font-11 MuiTypography-body1"
+        >
+          CURRENTLY READING
+        </p>
+      </div>
+      <h1
+        class="makeStyles-display-10"
+      >
+        Ten
+      </h1>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Topics renders correctly should match shapshot 3`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-root-13 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiCardContent-root"
+    >
+      <div
+        class="MuiCardActions-root MuiCardActions-spacing"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-image-18"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M19.07 4.93l-1.41 1.41C19.1 7.79 20 9.79 20 12c0 4.42-3.58 8-8 8s-8-3.58-8-8c0-4.08 3.05-7.44 7-7.93v2.02C8.16 6.57 6 9.03 6 12c0 3.31 2.69 6 6 6s6-2.69 6-6c0-1.66-.67-3.16-1.76-4.24l-1.41 1.41C15.55 9.9 16 10.9 16 12c0 2.21-1.79 4-4 4s-4-1.79-4-4c0-1.86 1.28-3.41 3-3.86v2.14c-.6.35-1 .98-1 1.72 0 1.1.9 2 2 2s2-.9 2-2c0-.74-.4-1.38-1-1.72V2h-1C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10c0-2.76-1.12-5.26-2.93-7.07z"
+          />
+        </svg>
+        <p
+          class="MuiTypography-root makeStyles-font-17 MuiTypography-body1"
+        >
+          TARGET PER YEAR
+        </p>
+      </div>
+      <h1
+        class="makeStyles-display-16"
+      >
+        Ten
+      </h1>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`Topics renders correctly should match shapshot 4`] = `
+<DocumentFragment>
+  <div
+    class="MuiPaper-root MuiCard-root makeStyles-root-19 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      class="MuiCardContent-root"
+    >
+      <div
+        class="MuiCardActions-root MuiCardActions-spacing"
+      >
+        <svg
+          aria-hidden="true"
+          class="MuiSvgIcon-root makeStyles-image-24"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zM6 4h5v8l-2.5-1.5L6 12V4z"
+          />
+        </svg>
+        <p
+          class="MuiTypography-root makeStyles-font-23 MuiTypography-body1"
+        >
+          BOOKS TO READ
+        </p>
+      </div>
+      <h1
+        class="makeStyles-display-22"
+      >
+        Ten
+      </h1>
+    </div>
+  </div>
+</DocumentFragment>
+`;
